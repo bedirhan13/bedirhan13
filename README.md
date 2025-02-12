@@ -13,7 +13,7 @@ Hoş geldiniz! Ben Bedirhan, Endüstri Meslek Lisesi Yazılım Bölümü öğren
 
 - [TikTok](https://www.tiktok.com/@bettaaep)
 - [Instagram](https://www.instagram.com/bettaaep)
-- [Instagram](https://www.instagram.com/bedirh4n1907)
+- [Instagramkişisel](https://www.instagram.com/bedirh4n1907)
 
 ## GitHub İstatistiklerim 📊
 
@@ -26,7 +26,7 @@ Hoş geldiniz! Ben Bedirhan, Endüstri Meslek Lisesi Yazılım Bölümü öğren
 - [Proje Adı 3](https://github.com/yourusername/project3) - Proje açıklaması
 
 ## İletişim 📬
-
+-[e-posta](bettaozil@gmail.com)
 Eğer bir projede birlikte çalışmak isterseniz veya bir sorunuz varsa, çekinmeden bana yazabilirsiniz. Yardımcı olmaktan mutluluk duyarım!
 
 ---
