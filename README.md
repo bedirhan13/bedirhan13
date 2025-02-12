@@ -5,7 +5,7 @@ Hoş geldiniz! Ben Bedirhan, Endüstri Meslek Lisesi Yazılım Bölümü öğren
 ## Hakkımda 🧑‍💻
 
 - 🏫 Endüstri Meslek Lisesi Yazılım Bölümü öğrencisiyim.
-- ⚽ After Effects kullanarak futbol editleri yapıyorum ve bunları TikTok & Instagram’da paylaşıyorum.
+- ⚽ After Effects programı kullanarak futbol editleri yapıyorum ve bunları TikTok & Instagram’da paylaşıyorum.
 - 🎥 Sosyal medyada içerik üretiyorum ve yazılım dünyasında kendimi geliştiriyorum.
 - 🌱 Şu anda Python, JavaScript gibi dillerde çalışıyorum ve sürekli öğreniyorum.
 
