@@ -1,4 +1,4 @@
-# Merhaba, Ben Bedirhan 👋
+# Merhaba, Ben dünyanın en kötü editörü👋
 
 Hoş geldiniz! Ben Bedirhan, Endüstri Meslek Lisesi Yazılım Bölümü öğrencisiyim. Yazılım dünyasında kendimi geliştirmek için çaba gösterirken, aynı zamanda After Effects ile futbol editleri yapıp TikTok ve Instagram’da paylaşıyorum. Teknolojiye olan ilgim, hem yazılım hem de görsel medya alanlarında yaratıcı projelere katkı sağlamama olanak tanıyor. 
 
